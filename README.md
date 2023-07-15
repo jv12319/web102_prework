@@ -26,7 +26,8 @@ Add a search box with server side capabilities.
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/g3remsR.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src=![Web102NewlyOptimizied](https://github.com/jv12319/web102_prework/assets/105757209/7d1512fe-c1ce-4bd3-9483-e0ec957f00a0)
+'' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Screentogif and ezgif
 GIF created with ...  
